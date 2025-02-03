@@ -7,6 +7,7 @@
 - (optional) depth (with GT depth files in 16-bit format)
 - pose (with .txt files with frame_to_world poses for each image)
 - intrinsics.txt
+
 You can find example of data in data/scene0005_00
 
 ### Data for 3D reconstruction with COLMAP should consist of folder:
